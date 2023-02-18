@@ -26,3 +26,7 @@ without reorganizing your code or writing a custom script.
 files in `~/src` for scripts with name `watch:sass` or `watch:js`. It will then
 run all found scripts, showing the respective outputs side by side in the
 console.
+
+## License
+
+Lincensed under European Union Public Licence. See LICENSE file.
