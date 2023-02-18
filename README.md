@@ -27,6 +27,11 @@ files in `~/src` for scripts with name `watch:sass` or `watch:js`. It will then
 run all found scripts, showing the respective outputs side by side in the
 console.
 
+## Install
+
+Just grab the latest [release](https://github.com/sne11ius/aggro/releases), put
+it in your $PATH and you should be ready to go.
+
 ## License
 
 Lincensed under European Union Public Licence. See LICENSE file.
